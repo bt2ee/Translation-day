@@ -1,6 +1,7 @@
 # Translation-day
 日常翻译的文章 锻炼阅读能力 都在 issue 中
 
+- [Will Deno Catchup with NodeJS in 2021?](https://github.com/sqshada/Translation-day/issues/9)
 - [React Clean Code](https://github.com/sqshada/Translation-day/issues/7) `翻译时间`：2020/03/01
 - [3 React concepts I wish I knew when I started](https://github.com/sqshada/Translation-day/issues/6) `翻译时间`：2020/02/28
 - [React-useCallback Invalidates Too Often in Practice](https://github.com/sqshada/Translation-day/issues/5) `翻译时间`：2020/02/27
