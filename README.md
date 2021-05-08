@@ -1,6 +1,7 @@
 # Translation-day
 日常翻译的文章 锻炼阅读能力 都在 issue 中
 
+-[Scheduling in React](https://github.com/sqshada/Translation-day/issues/11)  `翻译时间`：2020/05/08
 - [Why JavaScript Developers Should Prefer Axios Over Fetch](https://github.com/sqshada/Translation-day/issues/10)  `翻译时间`：2020/03/09
 - [Will Deno Catchup with NodeJS in 2021?](https://github.com/sqshada/Translation-day/issues/9) `翻译时间`：2020/03/03
 - [React Clean Code](https://github.com/sqshada/Translation-day/issues/7) `翻译时间`：2020/03/01
