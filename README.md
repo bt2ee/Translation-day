@@ -1,6 +1,7 @@
 # Translation-day
 日常翻译的文章 锻炼阅读能力 都在 issue 中
 
+- [Build your own React](https://pomb.us/build-your-own-react/) `翻译时间`：2020/05/20
 - [:where() :is() — A New CSS](https://github.com/sqshada/Translation-day/issues/14) `翻译时间`：2020/05/13
 - [On let vs const](https://github.com/sqshada/Translation-day/issues/13)  `翻译时间`：2020/05/12
 - [Why Do React Elements Have a $$typeof Property?](https://github.com/sqshada/Translation-day/issues/12)  `翻译时间`：2020/05/10
