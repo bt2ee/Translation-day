@@ -1,7 +1,7 @@
 # Translation-day
 日常翻译的文章 锻炼阅读能力 都在 issue 中
 
-- [Intro to React Server Side Rendering](https://github.com/sqshada/Translation-day/issues/16)
+- [Intro to React Server Side Rendering](https://github.com/sqshada/Translation-day/issues/16) `翻译时间`：2020/06/19
 - [Build your own React](https://github.com/sqshada/Translation-day/issues/15) `翻译时间`：2020/05/20
 - [:where() :is() — A New CSS](https://github.com/sqshada/Translation-day/issues/14) `翻译时间`：2020/05/13
 - [On let vs const](https://github.com/sqshada/Translation-day/issues/13)  `翻译时间`：2020/05/12
